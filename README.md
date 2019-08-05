@@ -10,7 +10,7 @@ Iterm and Vim personalization
 6. Open Iterm Preferences > Profiles > Colors > Color Presets...
 							and import the "color.itermcolors" file
 7. Switch to Text > Change Font and choose the one installed a few step behind
-
+							(Regular, 14)
 8. Finally move the .vimrc to your home directory (~/.vimrc) to get a few tweaks
 							on vim
 
