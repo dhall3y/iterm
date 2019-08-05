@@ -17,3 +17,13 @@ Hex Color Scheme
 	Bacground		303030
 	Selection		4c4c4c
 	Selected Text		eceef0
+	Links			005bbb
+	
+	
+				Text		Background
+	
+	
+	Default Color		eceef0		303030
+	Bold Color		edeeed
+	Cursor Color		000000		edeeed
+	Highlight Color		eceef0		4c4c4c
