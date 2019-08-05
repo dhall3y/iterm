@@ -1,0 +1,19 @@
+Hex Color Scheme
+
+
+				Normal		Bright
+
+
+	Black			191919		7f7f7f
+	Red			ec407a		ec407a
+	Green			8bc34a		9ccc65
+	Yellow			ffa726		ffb74d
+	Blue			2196f3		42a5f5
+	Magenta			9575cf		b39ddb
+	Cyan			00bcd4		26c6da
+	White			eceff1		ffffff
+
+	Foreground		eceef0
+	Bacground		303030
+	Selection		4c4c4c
+	Selected Text		eceef0
